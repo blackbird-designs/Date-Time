@@ -1,2 +1,2 @@
 # Date-Time
-# A python code to fatch date-time.
+# A Python code to fetch date-time.
